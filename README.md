@@ -24,8 +24,8 @@
 
 - <b>Data Science Research Methods</b>
   - [Investigating the Impact of Online Learning Platforms on Student Performance](https://github.com/Askarhd66/Student-Performance-VLE-Analysis)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Natural Language Processing</b>
+  - [Detecting Machine‑Generated Academic Text Using Supervised Learning](https://github.com/Askarhd66/AI-Academic-Text-Detector) 
 
 <h2>🛠️ Other Projects:</h2>
 
