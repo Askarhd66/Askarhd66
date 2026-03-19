@@ -1,7 +1,15 @@
 <h1>Hi, I'm Askar! <br/><a href="https://github.com/Askarhd66">MSc Data Science Graduate</a>, <a href="https://www.linkedin.com/in/askar-jabbar/">Data Engineer & Analyst</a>
 
 
-  <h2>📜 Certifications:</h2>
+<h2>🎓 University Projects (MSc Data Science):</h2>
+
+- <b>Data Science Research Methods</b>
+  - [Investigating the Impact of Online Learning Platforms on Student Performance](https://github.com/Askarhd66/Student-Performance-VLE-Analysis)
+  - [Movie Genre Profitability Analysis for SussexBudgetProductions](https://github.com/Askarhd66/Movie-Genre-Profitability-Analysis/tree/main)
+- <b>Natural Language Processing</b>
+  - [Detecting Machine‑Generated Academic Text Using Supervised Learning](https://github.com/Askarhd66/AI-Academic-Text-Detector) 
+
+<h2>📜 Certifications:</h2>
   
 - [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/askarhameedka-9822/credentials/28835aa77de2f940?ref=https%3A%2F%2Fwww.linkedin.com%2F) **(Microsoft, 2026)**
 - [Introduction to Continuous Integration & Continuous Delivery](https://www.udemy.com/certificate/UC-6067a19b-254a-400d-8326-afb9e05636ad/) **(Udemy, 2026)**
@@ -15,22 +23,4 @@
 
 <h2>📊 Power BI Projects:</h2>
 
-- <b>Data Science Research Methods</b>
-  - [Student-Performance-VLE-Analysis](https://github.com/Askarhd66/Student-Performance-VLE-Analysis)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-
-<h2>🎓 University Projects (MSc Data Science):</h2>
-
-- <b>Data Science Research Methods</b>
-  - [Investigating the Impact of Online Learning Platforms on Student Performance](https://github.com/Askarhd66/Student-Performance-VLE-Analysis)
-  - [Movie Genre Profitability Analysis for SussexBudgetProductions](https://github.com/Askarhd66/Movie-Genre-Profitability-Analysis/tree/main)
-- <b>Natural Language Processing</b>
-  - [Detecting Machine‑Generated Academic Text Using Supervised Learning](https://github.com/Askarhd66/AI-Academic-Text-Detector) 
-
-<h2>🛠️ Other Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+will be uploaded.....
