@@ -7,7 +7,8 @@
   - [Investigating the Impact of Online Learning Platforms on Student Performance](https://github.com/Askarhd66/Student-Performance-VLE-Analysis)
   - [Movie Genre Profitability Analysis for SussexBudgetProductions](https://github.com/Askarhd66/Movie-Genre-Profitability-Analysis/tree/main)
 - <b>Natural Language Processing</b>
-  - [Detecting Machine‑Generated Academic Text Using Supervised Learning](https://github.com/Askarhd66/AI-Academic-Text-Detector) 
+  - [Detecting Machine‑Generated Academic Text Using Supervised Learning](https://github.com/Askarhd66/AI-Academic-Text-Detector)
+  - [Sentiment Classification Using Wordlists & Naive Bayes](https://github.com/Askarhd66/Sentiment-Classification-Movie-Reviews)
 
 <h2>📜 Certifications:</h2>
   
