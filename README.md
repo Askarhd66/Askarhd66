@@ -23,7 +23,7 @@
 <h2>🎓 University Projects (MSc Data Science):</h2>
 
 - <b>Data Science Research Methods</b>
-  - [Student-Performance-VLE-Analysis](https://github.com/Askarhd66/Student-Performance-VLE-Analysis)
+  - [Investigating the Impact of Online Learning Platforms on Student Performance](https://github.com/Askarhd66/Student-Performance-VLE-Analysis)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
