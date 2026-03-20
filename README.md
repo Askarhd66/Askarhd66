@@ -8,6 +8,7 @@
   - [Movie Genre Profitability Analysis for SussexBudgetProductions](https://github.com/Askarhd66/Movie-Genre-Profitability-Analysis/tree/main)
 - <b>Machine Learning</b>
   - [Time‑Based Crop Yield Forecasting with a Multilayer Perceptron](https://github.com/Askarhd66/Crop-Yield-Forecasting-with-MLP)
+  - [Bias and Fairness in Machine Learning (Research)](https://github.com/Askarhd66/Bias-and-Fairness-in-Machine-Learning)
 - <b>Natural Language Processing</b>
   - [Detecting Machine‑Generated Academic Text Using Supervised Learning](https://github.com/Askarhd66/AI-Academic-Text-Detector)
   - [Propaganda Detection](https://github.com/Askarhd66/Propaganda-Detection)
