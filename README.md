@@ -13,6 +13,10 @@
   - [Diabetes Risk Prediction](https://github.com/Askarhd66/Diabetes-Risk-Prediction-Boosting-Models/tree/main)
   - [Password Strength Classification](https://github.com/Askarhd66/Password-Strength-Classification/tree/main)
   - [Breast Cancer Detection](https://github.com/Askarhd66/Breast-Cancer-Detection)
+  - [Extra‑Marital Affair Likelihood Analysis](https://github.com/Askarhd66/Marital-Affair-Behavior-Analysis)
+  - [Predicting Online Ad Click‑Through](https://github.com/Askarhd66/Ad_Click_Prediction)
+  - [Election Outcome Modelling](https://github.com/Askarhd66/Election_Win_Prediction)
+  - [Bank Term Deposit Subscription Prediction](https://github.com/Askarhd66/Bank_Deposit_Prediction)
 - <b>Natural Language Processing</b>
   - [Detecting Machine‑Generated Academic Text Using Supervised Learning](https://github.com/Askarhd66/AI-Academic-Text-Detector)
   - [Propaganda Detection](https://github.com/Askarhd66/Propaganda-Detection)
