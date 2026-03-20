@@ -10,9 +10,9 @@
   - [Time‑Based Crop Yield Forecasting with a Multilayer Perceptron](https://github.com/Askarhd66/Crop-Yield-Forecasting-with-MLP)
   - [Bias and Fairness in Machine Learning (Research)](https://github.com/Askarhd66/Bias-and-Fairness-in-Machine-Learning)
   - [COCA Networks Customer Churn Prediction](https://github.com/Askarhd66/COCA-Networks-Customer-Churn-Ensemble)
-  - [Diabetes Risk Prediction]()
-  - [Password Strength Classification]()
-  - [Breast Cancer Detection]()
+  - [Diabetes Risk Prediction](https://github.com/Askarhd66/Diabetes-Risk-Prediction-Boosting-Models/tree/main)
+  - [Password Strength Classification](https://github.com/Askarhd66/Password-Strength-Classification/tree/main)
+  - [Breast Cancer Detection](https://github.com/Askarhd66/Breast-Cancer-Detection)
 - <b>Natural Language Processing</b>
   - [Detecting Machine‑Generated Academic Text Using Supervised Learning](https://github.com/Askarhd66/AI-Academic-Text-Detector)
   - [Propaganda Detection](https://github.com/Askarhd66/Propaganda-Detection)
