@@ -1,14 +1,12 @@
-<h1>Hi, I'm Askar! <br/><a href="https://github.com/Askarhd66">MSc Data Science Graduate</a>, <a href="https://www.linkedin.com/in/askar-jabbar/">Data Engineer & Analyst</a>
+<h1>Hi, I'm Askar! <br/><a href="https://github.com/Askarhd66"><a href="https://www.linkedin.com/in/askar-jabbar/">Data Engineer & Analyst, MSc Data Science Graduate</a>
 
 
-<h2>🎓 University Projects (MSc Data Science):</h2>
+<h2>📂 Projects</h2>
 
-- <b>Data Science Research Methods</b>
   - [Investigating the Impact of Online Learning Platforms on Student Performance](https://github.com/Askarhd66/Student-Performance-VLE-Analysis)
   - [Movie Genre Profitability Analysis for SussexBudgetProductions](https://github.com/Askarhd66/Movie-Genre-Profitability-Analysis/tree/main)
-- <b>Machine Learning</b>
-  - [Time‑Based Crop Yield Forecasting with a Multilayer Perceptron](https://github.com/Askarhd66/Crop-Yield-Forecasting-with-MLP)
-  - [Bias and Fairness in Machine Learning (Research)](https://github.com/Askarhd66/Bias-and-Fairness-in-Machine-Learning)
+  - [Time‑Based Crop Yield Forecasting](https://github.com/Askarhd66/Crop-Yield-Forecasting-with-MLP)
+  - [Detecting Machine‑Generated Academic Text Using Supervised Learning](https://github.com/Askarhd66/AI-Academic-Text-Detector)
   - [COCA Networks Customer Churn Prediction](https://github.com/Askarhd66/COCA-Networks-Customer-Churn-Ensemble)
   - [Diabetes Risk Prediction](https://github.com/Askarhd66/Diabetes-Risk-Prediction-Boosting-Models/tree/main)
   - [Password Strength Classification](https://github.com/Askarhd66/Password-Strength-Classification/tree/main)
@@ -17,10 +15,11 @@
   - [Predicting Online Ad Click‑Through](https://github.com/Askarhd66/Ad_Click_Prediction)
   - [Election Outcome Modelling](https://github.com/Askarhd66/Election_Win_Prediction)
   - [Bank Term Deposit Subscription Prediction](https://github.com/Askarhd66/Bank_Deposit_Prediction)
-- <b>Natural Language Processing</b>
-  - [Detecting Machine‑Generated Academic Text Using Supervised Learning](https://github.com/Askarhd66/AI-Academic-Text-Detector)
   - [Propaganda Detection](https://github.com/Askarhd66/Propaganda-Detection)
   - [Sentiment Classification Using Wordlists & Naive Bayes](https://github.com/Askarhd66/Sentiment-Classification-Movie-Reviews)
+  - [Bias and Fairness in Machine Learning (Research)](https://github.com/Askarhd66/Bias-and-Fairness-in-Machine-Learning)
+
+---
 
 <h2>📜 Certifications:</h2>
   
@@ -34,6 +33,9 @@
 - [Problem Solving](https://www.hackerrank.com/certificates/dc8eba029e90) **(HackerRank, 2021)**
 - [Python](https://www.hackerrank.com/certificates/c49c7ea67190) **(HackerRank, 2021)**
 
+---
+
 <h2>📊 Power BI Projects:</h2>
 
-will be uploaded.....
+will be uploaded soon.....
+
