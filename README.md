@@ -37,5 +37,5 @@
 
 <h2>📊 Power BI Projects:</h2>
 
-will be uploaded soon.....
+  - [Power BI Sales Analytics Dashboard](https://github.com/Askarhd66/adventureworks-powerbi-sales-analytics)
 
