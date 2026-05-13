@@ -1,5 +1,10 @@
-<h1>Hi, I'm Askar! <br/><a href="https://github.com/Askarhd66"><a href="https://www.linkedin.com/in/askar-jabbar/">Data Engineer & Analyst, MSc Data Science Graduate</a>
+<h1>Hi, I'm Askar! <br/><a href="https://github.com/Askarhd66"><a href="https://www.linkedin.com/in/askar-jabbar/">Data Engineer | Analytics Engineer | Open to opportunities</a>
 
+
+<h2>About Me</h2>
+I am a Data Engineer with 3+ years of experience developing scalable data platforms for analytics, reporting, and downstream business applications. Skilled in delivering data lake, ETL, and data warehousing solutions using Databricks, Apache Spark, PySpark, Delta Tables, SQL, Python, AWS S3, and Redshift. Adept at data migration, data modelling, pipeline optimisation, and building high-quality data workflows that improve reliability, performance, and business insight. 
+
+---
 
 <h2>📊 Power BI Projects:</h2>
 
@@ -7,8 +12,7 @@
   - [Power BI Retail Analytics Dashboard](https://github.com/Askarhd66/maven-market-powerbi-retail-analytics)
 
 ---
-
-<h2>📂 Other Projects</h2>
+<h2>🔍 Data Science Projects</h2>
 
   - [Investigating the Impact of Online Learning Platforms on Student Performance](https://github.com/Askarhd66/Student-Performance-VLE-Analysis)
   - [Movie Genre Profitability Analysis for SussexBudgetProductions](https://github.com/Askarhd66/Movie-Genre-Profitability-Analysis/tree/main)
